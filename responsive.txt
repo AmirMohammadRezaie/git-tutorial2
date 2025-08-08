@@ -1,2 +1,2 @@
 responsive-table
-table2
+table
